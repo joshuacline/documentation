@@ -13,6 +13,7 @@
 
 - Change Boot Order
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/recoveryorder.png "recoveryorder")
+![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/bootmenu.png "bootmenu")
 
 - Update Recovery
   - Program ⬦ Boot Media ⬦ EFI boot files ⬦ Set Password
