@@ -12,6 +12,7 @@
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/recoverybasic.png "recoverybasic")
 
 - Change Boot Order
+  - Ability to rename, delete, or move virtual disks between the image and main folder is available via file operation
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/recoveryorder.png "recoveryorder")
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/bootmenu.png "bootmenu")
 
