@@ -9,13 +9,14 @@
 
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/listbuilderbase.png "listbuilderbase")
 - Base-Group (.base) ⬦ group database for building lists
+  - Assembles groups into a menu ⬦ builds list upon menu choice
   - tweaks.base is a Base-Group
 
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/listbuildertweaks.png "listbuildertweaks")
 
 # List Execute
 - Multi-List (.list) ⬦ group database for execution ⬦ target prompt optional
-  - Assembles groups into a menu, then executes upon menu choice
+  - Assembles groups into a menu ⬦ executes upon menu choice
   - tools.list is a Multi-List
 
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/listexecutemulti.png "listexecutemulti")
