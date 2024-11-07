@@ -20,7 +20,7 @@
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/bootmenu.png "bootmenu")
 
 - Update Recovery
-  - Program ⬦ Boot Media ⬦ EFI boot files ⬦ Set Password
+  - Program ⬦ Boot Media ⬦ EFI boot files ⬦ Set Password ⬦ Wallpaper
   - Test a program update until next reboot
 
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/recoveryupdate.png "recoveryupdate")
