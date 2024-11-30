@@ -18,8 +18,6 @@ https://github.com/joshuacline/documentation/blob/main/windick/filemanagement.md
 https://github.com/joshuacline/documentation/blob/main/windick/diskmanagement.md
 - Boot Creator
 https://github.com/joshuacline/documentation/blob/main/windick/bootcreator.md
-- Tasks
-https://github.com/joshuacline/documentation/blob/main/windick/tasks.md
 - Settings
 https://github.com/joshuacline/documentation/blob/main/windick/settings.md
 - Basic Menu
