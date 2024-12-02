@@ -7,6 +7,7 @@
 - Create a backup of a Windows installation using the vhdx-to-wim option when booted into recovery.
 - Perform an in place upgrade to a Windows installation using the wim-to-vhdx option when booted into recovery.
 - Requirements: USB or SSD disk ⬦ UEFI compatible bios ⬦ Windows disc or ISO ⬦ english host OS
+- Repository https://github.com/joshuacline/deploid
 
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/deploid/png/portable.png "portable")
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/deploid/png/bootcreatorlog.png "bootcreatorlog")
