@@ -26,3 +26,4 @@ https://github.com/joshuacline/documentation/blob/main/windick/mainbasic.md
 https://github.com/joshuacline/documentation/blob/main/windick/recovery.md
 - Command Line
 https://github.com/joshuacline/documentation/blob/main/windick/commandline.md
+- Repository https://github.com/joshuacline/windick
