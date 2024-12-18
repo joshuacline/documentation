@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/logo.png "logo")
+![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/logo1.png "logo")
 # Feature Overview
 - Create a secure boot compatible vhdx-boot (OS Boot) or deployment (Windows Setup) disk
 - Deploy & administrate virtual disk images or the live system within recovery or Windows
