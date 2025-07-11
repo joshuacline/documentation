@@ -1,4 +1,4 @@
-# Image Management
+# Image Management (List)
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/imagemanagementlist.png "imagemanagement")
 # List Builder
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/listbuildermisc.png "listbuildermisc")
@@ -29,6 +29,8 @@
 ⠀\
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/listexecutelog.png "listexecutelog")
 ⠀\
+
+# Image Management (Pack)
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/imagemanagementpack.png "imagemanagement")
 # Pack Builder
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/packbuilder.png "packbuilder")
@@ -37,6 +39,3 @@
 ⠀● Functions are declared in package.list \
 ⠀● Exported drivers are integrated by executing the package or adding to a list \
 ⠀● Wim based and can be opened with a zip application \
-⠀\
-
-
