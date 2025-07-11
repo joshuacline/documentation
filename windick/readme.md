@@ -13,7 +13,7 @@ https://github.com/joshuacline/documentation/blob/main/windick/imageprocessing.m
 https://github.com/joshuacline/documentation/blob/main/windick/imagemanagement.md
 - Other Management
 https://github.com/joshuacline/documentation/blob/main/windick/othermanagement.md
-- Boot Creator
+- BootDisk Creator
 https://github.com/joshuacline/documentation/blob/main/windick/bootcreator.md
 - Settings
 https://github.com/joshuacline/documentation/blob/main/windick/settings.md
