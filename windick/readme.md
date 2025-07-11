@@ -11,18 +11,12 @@
 https://github.com/joshuacline/documentation/blob/main/windick/imageprocessing.md
 - Image Management
 https://github.com/joshuacline/documentation/blob/main/windick/imagemanagement.md
-- Package Creator
-https://github.com/joshuacline/documentation/blob/main/windick/packagecreator.md
-- File Management
-https://github.com/joshuacline/documentation/blob/main/windick/filemanagement.md
-- Disk Management
-https://github.com/joshuacline/documentation/blob/main/windick/diskmanagement.md
+- Other Management
+https://github.com/joshuacline/documentation/blob/main/windick/othermanagement.md
 - Boot Creator
 https://github.com/joshuacline/documentation/blob/main/windick/bootcreator.md
 - Settings
 https://github.com/joshuacline/documentation/blob/main/windick/settings.md
-- Basic Menu
-https://github.com/joshuacline/documentation/blob/main/windick/mainbasic.md
 - WinPE Recovery
 https://github.com/joshuacline/documentation/blob/main/windick/recovery.md
 - Command Line

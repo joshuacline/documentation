@@ -1,5 +1,5 @@
 # Image Management
-![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/imagemanagement.png "imagemanagement")
+![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/imagemanagementlist.png "imagemanagement")
 # List Builder
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/listbuildermisc.png "listbuildermisc")
 ⠀\
@@ -28,3 +28,15 @@
 ⠀● Executes entire list from top to bottom, ignoring groups \
 ⠀\
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/listexecutelog.png "listexecutelog")
+⠀\
+![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/imagemanagementpack.png "imagemanagement")
+# Pack Builder
+![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/packbuilder.png "packbuilder")
+⠀\
+⠀● May contain drivers, installers, and additional appx/cab/msu packages \
+⠀● Functions are declared in package.list \
+⠀● Exported drivers are integrated by executing the package or adding to a list \
+⠀● Wim based and can be opened with a zip application \
+⠀\
+
+
