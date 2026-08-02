@@ -1,5 +1,6 @@
 ![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/logo1.png "logo")
 # Feature Overview
+![Alt text](https://raw.githubusercontent.com/joshuacline/documentation/main/windick/png/startpage.jpg "start")
 - Create a secure boot compatible vhdx-boot (OS Boot) or deployment (Windows Setup) disk
 - Deploy & administrate virtual disk images or the live system within recovery or Windows
 - Lightweight ~200KB footprint ⬦ most features are available for cli usage
